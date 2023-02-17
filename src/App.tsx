@@ -59,6 +59,13 @@ const Button = styled.button`
   background-color:#FAD34F;
   border-width: 0;
   color:#FFFFFF;
+  &:hover{
+    cursor: pointer;
+  }
+  &:disabled{
+    
+    background-color:#a09c8c;
+  }
   @media (max-width: 850px) {
     width: 65%;
   }
