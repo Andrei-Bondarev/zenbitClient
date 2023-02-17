@@ -190,7 +190,7 @@ function App() {
         <img style={{
           width:'100%'
         }} 
-        src="/assets/Map.png" 
+        src="./assets/Map.png" 
         alt="" />
       </Map>
       <Footer>
